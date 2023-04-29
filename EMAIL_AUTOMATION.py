@@ -1,4 +1,8 @@
+# THIS CODE ENABLES YOU TO AUTOMATE EMAIL OPENING EVERYDAY AT SPECIFIED TIME USING TASK SCHEDULER.
+
+
 # Modules which need to be imported
+
 import webbrowser
 
 # Site which you want to Open in your
